@@ -11,7 +11,7 @@
   
 # 💫About Me :
   
-🌱 I’m currently learning : Computer and Software Enginerring
+🌱 I’m currently learning : Computer and Software Engineering
 
   📫 How to reach me:  
   Mail me at "myhedin.vuciterna@student.uni-pr.edu" 
